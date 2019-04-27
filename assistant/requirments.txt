@@ -1,0 +1,8 @@
+ibmiotf
+pandas
+joblib
+scikit-learn
+face_recognition
+imutils
+opencv-python
+
