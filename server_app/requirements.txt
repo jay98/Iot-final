@@ -1,0 +1,11 @@
+Flask==1.0.2
+gunicorn==19.9.0
+pyrebase
+requests==2.18.4
+requests-toolbelt==0.8.0
+ibmiotf
+joblib
+scikit-learn
+statistics
+numpy
+pandas
